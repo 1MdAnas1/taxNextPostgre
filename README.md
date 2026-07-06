@@ -1,6 +1,6 @@
 # NextJS Tax App
 
-A modern full-stack tax consultancy website built with **Next.js**, featuring a responsive user interface, secure admin authentication, dynamic content management, and MongoDB integration. The application is designed to provide a fast, SEO-friendly experience for visitors while allowing administrators to manage website content through a protected dashboard.
+A modern full-stack tax consultancy website built with **Next.js**, featuring a responsive user interface, secure admin authentication, dynamic content management, and Postgres based Neon database integration. The application is designed to provide a fast, SEO-friendly experience for visitors while allowing administrators to manage website content through a protected dashboard.
 
 ---
 
