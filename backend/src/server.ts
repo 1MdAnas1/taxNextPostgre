@@ -12,7 +12,7 @@ const app = express();
 // Middleware
 app.use(helmet());
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://your-frontend.vercel.app'],
+  origin: ['http://localhost:3000', 'https://tax-next-postgre.vercel.app'],
   credentials: true,
 }));
 app.use(express.json());
