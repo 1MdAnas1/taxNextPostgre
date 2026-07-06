@@ -42,7 +42,6 @@ export default function Hero({ content }: HeroProps) {
             <Link href="/contact">
               <button className="btn-premium">Get a Quote</button>
             </Link>
-            {/* <button className="btn-outline">Learn More</button> */}
           </div>
         </div>
         <div className="hero-premium-image-wrapper">
