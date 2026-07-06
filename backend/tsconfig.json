@@ -10,8 +10,8 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "moduleResolution": "node",
-    "types": ["node"]          // ✅ Adds Node.js global types
+    "moduleResolution": "node16",
+    "types": ["node"]          
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "dist"]
