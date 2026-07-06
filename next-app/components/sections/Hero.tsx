@@ -30,7 +30,7 @@ export default function Hero({ content }: HeroProps) {
             <br />
             {/* <span className="highlight">{subtitle}</span> */}
             <ReactTyped
-    strings={[subtitle||"Your Trusted Tax Partner"]}
+    strings={[subtitle||""]}
     typeSpeed={60}
     backSpeed={30}
     loop={true}
